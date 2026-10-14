@@ -1,0 +1,5 @@
+# Dependencias do scraper (versoes instaladas e fixadas na .venv).
+pandas==3.0.6
+requests==2.34.2
+beautifulsoup4==4.15.0
+lxml==6.1.3

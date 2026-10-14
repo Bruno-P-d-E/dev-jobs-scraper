@@ -1,0 +1,2 @@
+# Dependência adicional para a etapa opcional 12 (SBERT).
+sentence-transformers==5.1.2

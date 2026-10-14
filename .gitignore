@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+dados/bruto/*.csv
+dados/bruto/diagnostico_html/
