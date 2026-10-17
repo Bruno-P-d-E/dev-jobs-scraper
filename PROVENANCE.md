@@ -1,6 +1,6 @@
 # Proveniência
 
-Obra de [NOME DO AUTOR], estado de 2026-10-14. SHA-256 dos arquivos:
+Obra de Bruno Proença de Souza, estado de 2026-10-14. SHA-256 dos arquivos:
 
 | Arquivo | SHA-256 |
 | --- | --- |
