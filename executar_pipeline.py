@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: Apache-2.0
-# Copyright (c) 2026 [NOME DO AUTOR]. Uso, cópia ou obra derivada exigem manter este aviso e citar a obra (ver NOTICE e CITATION.cff).
+# Copyright (c) 2026 Bruno Proença de Souza. Uso, cópia ou obra derivada exigem manter este aviso e citar a obra (ver NOTICE e CITATION.cff).
 """Executa as fases 2 a 5 do CRISP-DM sobre a extração já existente; não faz scraping.
 
 A fase 0 (0_raspagem) é manual: gera dados/bruto/vagas_unificado.csv.
