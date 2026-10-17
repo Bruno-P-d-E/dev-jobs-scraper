@@ -3,8 +3,6 @@ message: "Se você usar este software, metodologia ou resultados, cite-o conform
 title: "Dev Jobs Scraper: raspagem e análise de vagas de desenvolvimento (CRISP-DM)"
 type: software
 authors:
-  - name: "[NOME DO AUTOR]"
+  - name: "Bruno Proença de Souza"
 date-released: "2026-10-14"
 license: Apache-2.0
-repository-code: "[URL DO REPOSITÓRIO]"
-doi: "[DOI, se publicar no Zenodo]"
